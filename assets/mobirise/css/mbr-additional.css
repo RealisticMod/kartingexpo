@@ -2438,7 +2438,7 @@ body {
 }
 .cid-rcFSlp4DbR .card-box {
   padding: 2rem;
-  background-color: #ffffff;
+  background-color: #ff0000;
 }
 .cid-rcFSlp4DbR h4 {
   font-weight: 500;
@@ -2449,7 +2449,8 @@ body {
   text-align: left;
 }
 .cid-rcFSlp4DbR .mbr-text {
-  color: #767676;
+  color: #232323;
+  text-align: center;
 }
 .cid-rcFSlp4DbR .card-wrapper {
   height: 100%;
@@ -2467,6 +2468,9 @@ body {
     padding: 15px;
     -webkit-flex: 0 0 20%;
   }
+}
+.cid-rcFSlp4DbR .card-title {
+  text-align: center;
 }
 .cid-rcFSnwgp6I {
   padding-top: 90px;
