@@ -1610,6 +1610,9 @@ body {
   width: auto;
   max-width: 600px;
 }
+.cid-rf8bMRKIRl B {
+  color: #ffffff;
+}
 .cid-rf7OfgIj0g {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -4015,6 +4018,15 @@ body {
 }
 .cid-rf7HnzWToN .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-rf8uB7iQFN {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ff0000;
+}
+.cid-rf8uB7iQFN .mbr-text,
+.cid-rf8uB7iQFN blockquote {
+  color: #767676;
 }
 .cid-rf7GR1hbmw {
   padding-top: 15px;
